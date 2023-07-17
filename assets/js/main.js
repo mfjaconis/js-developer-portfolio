@@ -8,10 +8,10 @@ function updateProfileInfo(profileData) {
    name.innerText = profileData.name
 
    const job = document.querySelector('.job')
-   job.innerText = profileData.job 
+   job.innerHTML = `<a href="${profileData.jobUrl}">${profileData.job} </a>`
 
    const location = document.querySelector('.location')
-   location.innerText = profileData.location
+   location.innerHTML = `<a href="${profileData.locationUrl}">${profileData.location} </a>`
    
    const phone = document.querySelector('.phone')
    phone.innerText = profileData.phone
