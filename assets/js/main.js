@@ -14,10 +14,10 @@ function updateProfileInfo(profileData) {
    location.innerHTML = `<a href="${profileData.locationUrl}">${profileData.location} </a>`
    
    const phone = document.querySelector('.phone')
-   phone.innerHTML = `<a href="${profileData.phone}">${profileData.phone} </a>`
+   phone.innerHTML = `<a href="tel:${profileData.phone}">${profileData.phone} </a>`
 
    const email = document.querySelector('.email')
-   email.innerText = profileData.email
+   email.innerHTML = `<a href="email:${profileData.email}">${profileData.email} </a>`
 }
 
 function updateSoftSkills(profileData){
