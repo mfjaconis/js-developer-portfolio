@@ -17,7 +17,7 @@ function updateProfileInfo(profileData) {
    phone.innerHTML = `<a href="tel:55${profileData.phone}">${profileData.phone} </a>`
 
    const email = document.querySelector('.email')
-   email.innerHTML = `<a href="email:${profileData.email}">${profileData.email} </a>`
+   email.innerHTML = `<a href="mailto:${profileData.email}">${profileData.email} </a>`
 }
 
 function updateSoftSkills(profileData){
