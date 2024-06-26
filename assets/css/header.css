@@ -97,7 +97,6 @@
     .header .title {
         grid-area: title;
         text-align: start;
-        max-width: 210px;
     }
 
     .header .information {
