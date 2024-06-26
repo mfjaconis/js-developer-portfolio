@@ -11,7 +11,7 @@
     "hardSkills": [
       {
         "name": "HTML",
-        "logo": "../icons/tools/script-java.png"
+        "logo": "../assets/icons/tools/script-java.png"
       },
       {
         "name": "CSS",
@@ -23,7 +23,7 @@
       },
       {
         "name": "JavaScript",
-        "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/js.png?raw=true"
+        "logo": "../assets/icons/tools/js.png"
       }
       
     ],
@@ -37,7 +37,6 @@
     ]
   },
   "languages": [
-    "Português BR",
     "Inglês (iniciante)"
   ],
   "portfolio": [
