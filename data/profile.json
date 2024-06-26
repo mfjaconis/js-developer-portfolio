@@ -11,7 +11,7 @@
     "hardSkills": [
       {
         "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+        "logo": "../icons/tools/script-java.png"
       },
       {
         "name": "CSS",
