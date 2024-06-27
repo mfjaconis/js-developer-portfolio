@@ -12,39 +12,39 @@
     "hardSkills": [
       {
         "name": "HTML",
-        "logo": "../assets/icons/tools/html.png"
+        "logo": "https://raw.githubusercontent.com/mfjaconis/js-developer-portfolio/main/assets/icons/tools/html.png"
       },
       {
         "name": "CSS",
-        "logo": "https://github.com/mfjaconis/js-developer-portfolio/blob/0f5cecc34c045a8abdd3df61d3a51e1ea5b4ba66/assets/icons/tools/css.png?raw=true"
+        "logo": "https://raw.githubusercontent.com/mfjaconis/js-developer-portfolio/main/assets/icons/tools/css.png"
       },
       {
         "name": "JavaScript",
-        "logo": "../assets/icons/tools/js.png"
+        "logo": "https://raw.githubusercontent.com/mfjaconis/js-developer-portfolio/main/assets/icons/tools/js.png"
       },
       {
         "name": "React Js",
-        "logo": "../assets/icons/tools/reactjs.png"
+        "logo": "https://raw.githubusercontent.com/mfjaconis/js-developer-portfolio/main/assets/icons/tools/reactjs.png"
       },
       {
         "name": "Vue Js",
-        "logo": "../assets/icons/tools/vuejs.png"
+        "logo": "https://raw.githubusercontent.com/mfjaconis/js-developer-portfolio/main/assets/icons/tools/vuejs.png"
       },
       {
         "name": "Node Js",
-        "logo": "../assets/icons/tools/nodejs.png"
+        "logo": "https://raw.githubusercontent.com/mfjaconis/js-developer-portfolio/main/assets/icons/tools/nodejs.png"
       },
       {
         "name": "Docker (básico)",
-        "logo": "../assets/icons/tools/docker.png"
+        "logo": "https://raw.githubusercontent.com/mfjaconis/js-developer-portfolio/main/assets/icons/tools/docker.png"
       },
       {
         "name": "Postgres (básico)",
-        "logo": "../assets/icons/tools/postgre.png"
+        "logo": "https://raw.githubusercontent.com/mfjaconis/js-developer-portfolio/main/assets/icons/tools/postgre.png"
       },
       {
         "name": "Git / GitHub",
-        "logo": "../assets/icons/tools/github.svg"
+        "logo": "https://raw.githubusercontent.com/mfjaconis/js-developer-portfolio/main/assets/icons/tools/github.svg"
       }
     ],
     "softSkills": [
