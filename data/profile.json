@@ -68,20 +68,11 @@
   "professionalExperience": [
     {
       "name": "Desenvolvedor Front End (Freelancer)",
-      "description": "Experiência na realização de projetos envolvendo meus conhecimentos com as tecnologias HTML, CSS, JavaScript, 
-TypeScript e React."
+      "description": "Experiência na realização de projetos envolvendo meus conhecimentos com as tecnologias HTML, CSS, JavaScript, TypeScript e React."
     },
     {
-      "name": "Beab Tech – Desenvolvedor Front End (Freelancer)","description": "Atuando como desenvolvedor Front-End Freelance na BEAB TECH em um projeto de criação de uma página web, 
-meu foco é implementar uma plataforma onde os administradores possam cadastrar agências de turismo. O principal 
-propósito é possibilitar que essas agências realizem cotações de passagens aéreas, oferecendo diversas opções de 
-pagamento, incluindo dinheiro e milhas acumuladas.
-Para alcançar esse objetivo, estou utilizando as tecnologias VUE.JS, JavaScript, Axios, HTML e CSS no desenvolvimento 
-do Front-End. Essas ferramentas proporcionam uma experiência de usuário dinâmica e responsiva, contribuindo para 
-a eficiência e funcionalidade da plataforma.
-Para armazenar o banco de dados utilizado foi o Docker e para o back-end a tecnlogia escolhida pela BEAB TECH 
-foi NodeJs e Express. Pude contribuir com uma pequena parte do back-end, mesmo estando no estágio inicial.
-"
+      "name": "Beab Tech – Desenvolvedor Front End (Freelancer)",
+      "description": "Atuando como desenvolvedor Front-End Freelance na BEAB TECH em um projeto de criação de uma página web, meu foco é implementar uma plataforma onde os administradores possam cadastrar agências de turismo. O principal propósito é possibilitar que essas agências realizem cotações de passagens aéreas, oferecendo diversas opções de pagamento, incluindo dinheiro e milhas acumuladas.\n\nPara alcançar esse objetivo, estou utilizando as tecnologias VUE.JS, JavaScript, Axios, HTML e CSS no desenvolvimento do Front-End. Essas ferramentas proporcionam uma experiência de usuário dinâmica e responsiva, contribuindo para a eficiência e funcionalidade da plataforma.\n\nPara armazenar o banco de dados utilizado foi o Docker e para o back-end a tecnlogia escolhida pela BEAB TECH foi NodeJs e Express. Pude contribuir com uma pequena parte do back-end, mesmo estando no estágio inicial."
     }
   ]
 }
