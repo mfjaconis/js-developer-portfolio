@@ -46,7 +46,10 @@ function updatePortfolio(profileData){
              </h3>
 
              <a href="${project.url}"
-             target="_blank">${project.url}
+             Projeto: target="_blank">${project.url}
+             </a>
+             <a href="${project.url_git}"
+             Code GitHub: target="_blank">${project.url_git}
              </a>
 
          </li>

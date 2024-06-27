@@ -1,4 +1,3 @@
-
  async function fetchProfileData() {
 
    const url = "https://raw.githubusercontent.com/mfjaconis/js-developer-portfolio/main/data/profile.json";
