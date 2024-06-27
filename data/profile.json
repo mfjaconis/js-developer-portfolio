@@ -4,7 +4,7 @@
   "job": "Desenvolvedor Front-End | Programador Front-End",
   "jobUrl": "https://github.com/mfjaconis",
   "location": "Mauá - SP",
-  "locationUrl":"https://www.google.com/maps/place/R.+Afonso+Pena,+551+-+Parque+Sao+Vicente,+Mau%C3%A1+-+SP,+09371-470/@-23.6676656,-46.4768662,3a,75y,123.02h,93.64t/data=!3m6!1e1!3m4!1sAg1qbRC82-4FZ5IXi0Pcvg!2e0!7i16384!8i8192!4m7!3m6!1s0x94ce6975969ebd81:0xb5760d26f0dc8742!8m2!3d-23.6681177!4d-46.4768293!10e5!16s%2Fg%2F11kqkv6b1q?entry=ttu",
+  "locationUrl": "https://www.google.com/maps/place/R.+Afonso+Pena,+551+-+Parque+Sao+Vicente,+Mau%C3%A1+-+SP,+09371-470/@-23.6676656,-46.4768662,3a,75y,123.02h,93.64t/data=!3m6!1e1!3m4!1sAg1qbRC82-4FZ5IXi0Pcvg!2e0!7i16384!8i8192!4m7!3m6!1s0x94ce6975969ebd81:0xb5760d26f0dc8742!8m2!3d-23.6681177!4d-46.4768293!10e5!16s%2Fg%2F11kqkv6b1q?entry=ttu",
   "phone": "(11) 98792-7573",
   "phone_url": "+55(11)98792-7573",
   "email": "matheusjaconis@gmail.com",
@@ -26,7 +26,6 @@
         "name": "JavaScript",
         "logo": "../assets/icons/tools/js.png"
       }
-      
     ],
     "softSkills": [
       "Empatia",
@@ -44,34 +43,45 @@
     {
       "name": "Jaconis Movies",
       "url": "https://movies-dev-puce.vercel.app/",
-      "url_git":"https://github.com/mfjaconis/react-jaconis-movies",
+      "url_git": "https://github.com/mfjaconis/react-jaconis-movies",
       "github": true
     },
     {
       "name": "Curriculum Vitae",
       "url": "https://mfjaconis.github.io/cv/",
-      "url_git":"https://github.com/mfjaconis/cv",
+      "url_git": "https://github.com/mfjaconis/cv",
       "github": true
     },
     {
       "name": "Jogo da memória",
       "url": "https://mfjaconis.github.io/Porjeto-JS-JogoDaMemoria/",
-      "url_git":"https://github.com/mfjaconis/Porjeto-JS-JogoDaMemoria",
+      "url_git": "https://github.com/mfjaconis/Porjeto-JS-JogoDaMemoria",
       "github": true
     },
     {
       "name": "Conversor de moeda",
       "url": " https://mfjaconis.github.io/DevClub-project-converter-currency/",
-      "url_git":"https://github.com/mfjaconis/DevClub-project-converter-currency",
+      "url_git": "https://github.com/mfjaconis/DevClub-project-converter-currency",
       "github": true
     }
-
-   
   ],
   "professionalExperience": [
     {
-      "name": "Front-End",
-      "description": "Busco minha primeira experiência em uma empresa, até o momento tenho como experiência meus projetos práticos e pessoais. "
+      "name": "Desenvolvedor Front End (Freelancer)",
+      "description": "Experiência na realização de projetos envolvendo meus conhecimentos com as tecnologias HTML, CSS, JavaScript, 
+TypeScript e React."
+    },
+    {
+      "name": "Beab Tech – Desenvolvedor Front End (Freelancer)","description": "Atuando como desenvolvedor Front-End Freelance na BEAB TECH em um projeto de criação de uma página web, 
+meu foco é implementar uma plataforma onde os administradores possam cadastrar agências de turismo. O principal 
+propósito é possibilitar que essas agências realizem cotações de passagens aéreas, oferecendo diversas opções de 
+pagamento, incluindo dinheiro e milhas acumuladas.
+Para alcançar esse objetivo, estou utilizando as tecnologias VUE.JS, JavaScript, Axios, HTML e CSS no desenvolvimento 
+do Front-End. Essas ferramentas proporcionam uma experiência de usuário dinâmica e responsiva, contribuindo para 
+a eficiência e funcionalidade da plataforma.
+Para armazenar o banco de dados utilizado foi o Docker e para o back-end a tecnlogia escolhida pela BEAB TECH 
+foi NodeJs e Express. Pude contribuir com uma pequena parte do back-end, mesmo estando no estágio inicial.
+"
     }
   ]
 }
