@@ -48,15 +48,25 @@
       "github": true
     },
     {
-      "name": "Criando um site que trás uma imagem e uma mensagem de acordo com a hora que o usuário acessou.",
-      "url": "https://mfjaconis.github.io/projeto-hora-mensagem/",
+      "name": "Curriculum Vitae",
+      "url": "https://mfjaconis.github.io/cv/",
+      "url_git":"https://github.com/mfjaconis/cv",
       "github": true
     },
     {
       "name": "Jogo da memória",
       "url": "https://mfjaconis.github.io/Porjeto-JS-JogoDaMemoria/",
+      "url_git":"https://github.com/mfjaconis/Porjeto-JS-JogoDaMemoria",
+      "github": true
+    },
+    {
+      "name": "Conversor de moeda",
+      "url": " https://mfjaconis.github.io/DevClub-project-converter-currency/",
+      "url_git":"https://github.com/mfjaconis/DevClub-project-converter-currency",
       "github": true
     }
+
+   
   ],
   "professionalExperience": [
     {
