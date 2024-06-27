@@ -13,6 +13,8 @@
     flex-direction: column;
     justify-content: flex-start;
     margin: 1rem 0;
+    border-bottom: 1px solid;
+    padding-bottom: 20px;
 }
 
 .portfolio li .title {
