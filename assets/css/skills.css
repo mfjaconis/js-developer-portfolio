@@ -3,13 +3,11 @@
     flex-direction: column;
 }
 
-.skills .tools ul {
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    align-items: center;
-    flex-wrap: wrap;
-    margin: 0;
+.skills .tools ul { 
+    display: grid;
+    grid-template-columns: repeat(4, 0.1fr);
+
+    margin-bottom: 0;
     padding: 0;
     list-style: none;
 }
@@ -18,20 +16,19 @@
     max-width: 50px;
     max-height: 50px;
     margin: 0 .5rem;
+    margin-bottom: 2rem;
 }
 
 .skills .personal ul {
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    align-items: center;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+
     margin: 0;
     padding: 0;
 }
 
 .skills .personal ul li {
-    margin-left: 2rem;
+    margin-bottom: 2rem;
     padding: .5rem
 }
 
