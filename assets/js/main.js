@@ -14,7 +14,7 @@ function updateProfileInfo(profileData) {
    location.innerHTML = `<a href="${profileData.locationUrl}">${profileData.location} </a>`
    
    const phone = document.querySelector('.phone')
-   phone.innerHTML = `<a href="${profileData.phone}">${profileData.phone} </a>`
+   phone.innerHTML = `<a href="tel:${profileData.phone_url}">${profileData.phone} </a>`
 
    const email = document.querySelector('.email')
    email.innerHTML = `<a href="mailto:${profileData.email}">${profileData.email} </a>`
